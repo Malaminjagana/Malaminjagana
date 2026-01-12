@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently building my freelancing career on Upwork and other global platforms
-- 🌱 I’m actively expanding my skills in AI and modern full‑stack development
-- 👯 I’m open to collaborating with companies looking for reliable full‑stack freelance support
-- 🤝 I’m always interested in meaningful projects, mentorship, and professional growth
-- 📫 You can reach me through my portfolio: https://malaminjagana.github.io/Terminal-portfolio/
+- 🔭 I’m a full‑stack freelance developer supporting companies with modern, scalable web solutions
+- 🌱 I continuously expand my expertise in AI and advanced development workflows to bring even more value to my clients
+- 👯  I specialize in building clean, efficient, and production‑ready applications for teams that want results without the overhead of a full-time hire
+- 🤝I collaborate with businesses that need a reliable, detail‑oriented developer who can take ownership and deliver end‑to‑end solutions
+- 📫If your company needs support, you can reach me through my portfolio: https://malaminjagana.github.io/Terminal-portfolio/
